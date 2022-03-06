@@ -1,6 +1,6 @@
-# Akan names from Ghanian culture
+# Birthday Project
 
-This is a clone to my portfolio landing page.
+This is a clone to my birthday project landing page.
 
 By Martha Munzinga
 
