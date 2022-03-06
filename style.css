@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    background-color: palevioletred;
+    height: 20vh;
+    margin-top: 15px;
+    padding: 40px;
+    /* color: white; */
+}
+.upper-container-h3{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
+.upper-container-para{
+    margin: 20px 180px;
+    padding: 40px 100px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.form{
+    box-shadow: 0 3px 3px 3px;
+    margin: 40px;
+    padding: 20px;
+}
+.form h3{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.form-details{
+    font-size: 20px;
+    margin: 0 40px;
+    padding: 10px 20px;
+}
+.form-date{
+    display: flex;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+.year , .date , .month{
+    margin-right: 60px;
+    /* width: 70px; */
+    /* background-color: red; */
+ 
+}
+.year input, .date input , .month input{
+    width: 150px;
+    padding: 5px;
+}
+.form-gender{
+    display: block;
+    font-size: 20px;
+    margin: 0 40px;
+    padding: 10px 20px;
+}
+
+.form-gender-label{
+    margin: 10px 0;
+    /* padding: 20px 0; */
+    /* background-color: red; */
+}
+.input-radio{
+    display: flex;
+}
+.radio-male{
+    margin-right: 60px;
+    
+}
+#form-holder{
+    margin: 80px 150px;
+    /* background-color: yellow; */
+}
+.btn-button{
+    text-align: center;
+    margin: 20px;
+   
+ }
+ button{
+     padding: 10px 40px;
+     border-radius: 10px;
+    background-color: #00ffea;
+    font-size: 20px;
+ }
+ .d-none{
+     display: none;
+ 
+ }
+ .d-block{
+     display: block;
+ }
+ .section{
+     text-align: center;
+     margin: 20px 200px;
+ }

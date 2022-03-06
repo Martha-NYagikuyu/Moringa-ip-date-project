@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header">
+            <h2>AKAN NAMES AND THE DAY OF THE WEEK CALCULATION</h2>
+        </div>
+    </header>
+    <div class="upper-container">
+        <div class="upper-container-h3">
+            <h3>What is AKAN names all About?</h3>
+        </div>
+        <div class="upper-container-para">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam exercitationem dolor suscipit magni? Quod voluptas at maxime quidem optio ea minus reprehenderit tenetur consequatur nostrum odio, molestias doloremque ipsum rerum!</p>
+        </div>
+    </div>
+    <div id="form-holder" class="form">
+        <form id="form">
+            <h3>PERSONAL INFORMATION</h3>
+            <div class="form-details">
+                <h4>Birth Details</h4>
+                <div class="form-date">
+                    <div class="year">
+                        <label for="year">Year</label> <br>
+                        <input type="number" id="year" min="1">
+                    </div>
+                    <div class="month">
+                        <label for="month">Month</label> <br>
+                        <input type="number" id="month" max="12" min="1">
+                    </div>
+                    <div class="date">
+                        <label for="date">Date</label> <br>
+                        <input type="number" id="date" max="31" min="1">
+                    </div>
+                </div>
+            </div>
+            <div class="form-gender">
+                <div class="form-gender-label">
+                    <label for="gender">Gender</label>
+                </div>
+                <div class="input-radio">
+                    <div class="radio-male">
+                        <input type="radio" onclick="setGender('male')" id="Male" name="gender" value="male">Male
+                    </div>
+                    <div class="radio-female">
+                        <input type="radio" id="female" name="gender" value="female">Female
+                    </div>
+                </div>
+            </div>
+            <div class="btn-button">
+                <button class="btn" id="btn-form" type="submit">CLICK</button>
+            </div>
+        </form>
+    </div>
+    <div class="section d-none " id="results" >
+       <div class="result-holder">
+            <div class="content">
+            <h3>your Akan Details are:</h3>
+            
+            <p>Name:
+                <span id="birth-name"></span>
+            </p>
+        </div>
+        <div class="content">
+            <p>Birthday:
+                <span id="birth-date"></span>
+            </p>
+        </div>
+       </div>
+    </div>
+<script src="index.js"></script>
+</body>
+</html>
