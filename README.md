@@ -18,7 +18,7 @@ five sections; about my project,the title,heading,description,age and gender for
 
 ## Used Technoligies
 
-HTML and CSS is used in the project
+HTML.CSS and JavaScript is used in the project
 
 ## Support and Contact Details
 
