@@ -6,9 +6,9 @@ By Martha Munzinga
 
 ## Description
 
-The purpose of my portfolio is to indicate about me as a person. The site contains 
+The purpose of my birthday project is to indicate about akan naming in ghanian culture in ghana. The site contains 
 
-six sections; about me, experience, interest and hobbies, my projects, the contact me page and the footer.
+five sections; about my project,the title,heading,description,age and gender form and the submit button.
 
 ## Setup requirements
 <ol>
