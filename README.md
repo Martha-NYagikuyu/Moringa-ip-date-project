@@ -13,7 +13,7 @@ five sections; about my project,the title,heading,description,age and gender for
 ## Setup requirements
 <ol>
 <li>Clone the project using git -clone . If you are not able to clone it, you can download the files as
-<li>you need to have a laptop or a mobile phone to access the portfolio.</li>
+<li>you need to have a laptop or a mobile phone to access the birthday project.</li>
 </ol>
 
 ## Used Technoligies
