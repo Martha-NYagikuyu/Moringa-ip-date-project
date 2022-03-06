@@ -1,4 +1,4 @@
-# 
+# Akan names from Ghanian culture
 
 This is a clone to my portfolio landing page.
 
