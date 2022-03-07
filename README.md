@@ -6,7 +6,7 @@ By Martha Munzinga Nyagikuyu
 
 ## Description
 
-The purpose of my birthday project is to indicate about akan naming in ghanian culture in ghana. The site contains 
+The purpose of my Akan age and gender project is to indicate about akan naming in ghanian culture in ghana. The site contains 
 
 five sections; about my project,the title,heading,description,age and gender form and the submit button.
 
