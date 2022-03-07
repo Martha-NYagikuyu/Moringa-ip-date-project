@@ -1,8 +1,8 @@
-# Akan age and gender Project
+# Birthd Project
 
 This is a clone to my birthday project landing page.
 
-By Martha Munzinga
+By Martha Munzinga Nyagikuyu
 
 ## Description
 
