@@ -1,6 +1,6 @@
 # Akan age and gender Project
 
-This is a clone to my birthday project landing page.
+This is a clone to my akan age and gender project landing page.
 
 By Martha Munzinga Nyagikuyu
 
