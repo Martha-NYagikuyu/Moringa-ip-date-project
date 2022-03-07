@@ -1,4 +1,4 @@
-# Birthday Project
+# Akan age and gender Project
 
 This is a clone to my birthday project landing page.
 
